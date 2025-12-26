@@ -1,8 +1,8 @@
-CS Fundamentals: Core Computer Science Concepts
+# CS Fundamentals: Core Computer Science Concepts
 
 A structured, beginner-friendly repository covering core CS fundamentals essential for software engineering, interviews, system design, and real-world development. These notes were created during a B.Tech journey and are written in simple language with diagrams, examples, and interview relevance in mind.
 
-Table of Contents
+## Table of Contents
 
 - Overview
 - Repository Structure
@@ -14,7 +14,7 @@ Table of Contents
 - Contributing
 - Final Note
 
-Overview
+## Overview
 
 Strong fundamentals help you:
 
@@ -25,14 +25,14 @@ Strong fundamentals help you:
 
 Frameworks change — fundamentals don’t.
 
-Repository Structure
+## Repository Structure
 
 - Operating Systems — see Operating Systems/ ([Operating Systems/](Operating%20Systems/))
 - Computer Networks — see Computer Networks/ ([Computer Networks/](Computer%20Networks/))
 - DBMS — see DBMS/ ([DBMS/](DBMS/))
 - System Design — see System Design/ ([System Design/](System%20Design/))
 
-Each folder includes:
+### Each folder includes:
 
 - Concept explanations
 - Diagrams and flow explanations
@@ -40,7 +40,7 @@ Each folder includes:
 - Interview-focused notes
 - Real-world analogies and examples
 
-Operating Systems (OS)
+## Operating Systems (OS)
 
 - Folder: [Operating Systems/](Operating%20Systems/)
 - Overview: Operating systems act as a bridge between hardware and software. This section covers how programs execute, how memory is managed, and how multiple processes run efficiently on a single machine. Notes emphasize both theoretical clarity and practical understanding.
@@ -59,7 +59,7 @@ Operating Systems (OS)
 	- Build a foundation for systems programming
 	- Strengthen interview preparation
 
-Computer Networks (CN)
+## Computer Networks (CN)
 
 - Folder: [Computer Networks/](Computer%20Networks/)
 - Overview: Explains how data travels across the internet—from your browser to a server far away. Focuses on protocols, architectures, and real-world networking behavior, with emphasis on how modern web applications communicate.
@@ -77,7 +77,7 @@ Computer Networks (CN)
 	- Better debugging of network-related issues
 	- Essential knowledge for backend and cloud roles
 
-Database Management Systems (DBMS)
+## Database Management Systems (DBMS)
 
 - Folder: [DBMS/](DBMS/)
 - Overview: DBMS is the backbone of almost every software system. This section explains how data is stored, retrieved, optimized, and secured in databases, balancing theory with SQL-level understanding.
@@ -97,7 +97,7 @@ Database Management Systems (DBMS)
 	- Write optimized queries
 	- Understand how databases scale internally
 
-System Design
+## System Design
 
 - Folder: [System Design/](System%20Design/)
 - Overview: System design is about building scalable, reliable, and maintainable systems. This section focuses on thinking like an engineer, not just coding features, progressing from basics to advanced topics.
@@ -117,17 +117,17 @@ System Design
 	- Strong preparation for SDE interviews
 	- Better architectural decision-making
 
-How to Use
+## How to Use
 
 - Read topic-wise during coursework
 - Use for revision before exams
 - Prepare for interviews
 - Contribute improvements or diagrams
 
-Contributing
+## Contributing
 
 This repository is continuously evolving. If you find improvements or corrections, feel free to open an issue or a pull request.
 
-Final Note
+## Final Note
 
 Mastering CS fundamentals separates good developers from great engineers. This repository is a step toward building that strong foundation.
